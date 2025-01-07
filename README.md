@@ -60,7 +60,8 @@ Conclusion
 Diffusion models are transforming medical image reconstruction, enhancement, synthesis, and segmentation
 Challenges persist in scalability, computational efficiency, and clinical applicability.
 
-Future work:
+Future work
+
 Automated Noise Schedule Optimization - Develop algorithms to automatically optimize the noise schedule during training, reducing the need for manual tuning. Since diffusion models are sensitive to noise scheduling 
 Meta learning approaches
 Combine diffusion models with other generative models such as GANs to increase interpretability 
@@ -73,6 +74,7 @@ Privacy Concerns: The use of AI image synthesis models, including diffusion mode
 Reverse Process with Reinforcement Learning: Reinforcement learning can be employed to optimize the inverse process of diffusion models, potentially improving their performance and efficiency.
 
 References 
+
 Wu, J., Fu, R., Fang, H., Zhang, Y., Yang, Y., Xiong, H., ... & Xu, Y. (2024, January). Medsegdiff: Medical image segmentation with diffusion probabilistic model. In Medical Imaging with Deep Learning (pp. 1623-1639). PMLR.
 Fontanella, A., Mair, G., Wardlaw, J., Trucco, E., & Storkey, A. (2024). Diffusion models for counterfactual generation and anomaly detection in brain images. IEEE Transactions on Medical Imaging.
 Chen, T., Wang, C., & Shan, H. (2023, October). Berdiff: Conditional bernoulli diffusion model for medical image segmentation. In International conference on medical image computing and computer-assisted intervention (pp. 491-501). Cham: Springer Nature Switzerland.
