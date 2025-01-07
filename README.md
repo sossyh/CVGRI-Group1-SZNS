@@ -76,12 +76,19 @@ Reverse Process with Reinforcement Learning: Reinforcement learning can be emplo
 References 
 
 Wu, J., Fu, R., Fang, H., Zhang, Y., Yang, Y., Xiong, H., ... & Xu, Y. (2024, January). Medsegdiff: Medical image segmentation with diffusion probabilistic model. In Medical Imaging with Deep Learning (pp. 1623-1639). PMLR.
+
 Fontanella, A., Mair, G., Wardlaw, J., Trucco, E., & Storkey, A. (2024). Diffusion models for counterfactual generation and anomaly detection in brain images. IEEE Transactions on Medical Imaging.
+
 Chen, T., Wang, C., & Shan, H. (2023, October). Berdiff: Conditional bernoulli diffusion model for medical image segmentation. In International conference on medical image computing and computer-assisted intervention (pp. 491-501). Cham: Springer Nature Switzerland.
+
 Jiang, H., Luo, A., Liu, X., Han, S., & Liu, S. (2025). Lightendiffusion: Unsupervised low-light image enhancement with latent-retinex diffusion models. In European Conference on Computer Vision (pp. 161-179). Springer, Cham.
+
 Song, T., Wu, Y., Hu, M., Luo, X., Luo, G., Wang, G., ... & Zhang, S. (2024). Cycle-Consistent Bridge Diffusion Model for Accelerated MRI Reconstruction. arXiv preprint arXiv:2412.09998.
+
 Khazrak, I., Takhirova, S., Rezaee, M. M., Yadollahi, M., Green II, R. C., & Niu, S. (2024). Addressing Small and Imbalanced Medical Image Datasets Using Generative Models: A Comparative Study of DDPM and PGGANs with Random and Greedy K Sampling. arXiv preprint arXiv:2412.12532.
+
 Li, X., Ren, Y., Jin, X., Lan, C., Wang, X., Zeng, W., ... & Chen, Z. (2023). Diffusion Models for Image Restoration and Enhancement--A Comprehensive Survey. arXiv preprint arXiv:2308.09388.
+
 Sun, Y., Chen, Z., Zheng, H., Ge, R., Liu, J., Min, W., ... & Wang, C. (2024). BS-LDM: Effective Bone Suppression in High-Resolution Chest X-Ray Images with Conditional Latent Diffusion Models. arXiv preprint arXiv:2412.15670.
 
 
